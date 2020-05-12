@@ -1,3 +1,10 @@
+->Used ICanHazDadJoke API for fetching random jokes.
+->As the page loads, initially 10 jokes are displayed by default.
+->There's a vote up and vote down button along with the net score for each joke
+->The jokes are stored in local storage and are sorted by net score
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
